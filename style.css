@@ -1,0 +1,442 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+
+body{
+    font-family: 'Rubik Distressed', cursive;
+    background-color: #EC994B;
+    background-position: right top;     
+    background-repeat: no-repeat;  
+    }
+
+.close{
+    height: 100px;
+    width: 100px;
+}
+.nanya{
+    width: 350px;
+    margin-top: 70px;
+}
+.p1{
+    margin-left: 40px;
+    font-size: 20px;
+    color: red;
+}
+.judul table{
+    margin-left: 565px;
+    font-size: 60px;
+    font-family: 'Rubik Distressed', cursive;   
+    color: #5F8D4E;
+    text-align: center;
+    width: 450px;
+    height: 430px;
+    background-color: #361500;
+    border-radius: 50%;
+    opacity: .8;
+    }
+.login{
+    margin-left: 644px;
+    margin-top: 30px;
+}
+.login button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+}
+
+/* SELESAI */
+.akhir {
+    background-image: url("asset/KELOM.jpg");
+    size: 100px;
+}
+.restart button {
+    width: 330px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #3C2317;
+    border-radius: 50px;
+    margin-top: 27rem;
+    margin-left: 740px;
+}
+
+/* soalpertama */
+.soal1{
+    text-align: center;
+}
+
+ .silang1 p{
+     font-size: 23px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+ }
+ .jawabsalah1{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+
+ }
+ .text1 p{
+    font-size: 30px;
+    margin-left: -20px;
+    text-align: center;
+ }
+.search1{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 45px;
+}
+.jawab1{
+    margin-top: 50px;
+}
+.jawab1 button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+/* soal kedua */
+.soal2{
+    text-align: center;
+}
+.jawabsalah2{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+ }
+ .silang2 p{
+     font-size: 23px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+     
+ }
+ .text2 p{
+    font-size: 35px;
+    margin-left: -20px;
+ }
+.search2{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 45px;
+}
+.jawab2{
+    margin-top: 50px;
+}
+.jawab2 button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+/* soal ketiga */
+.soal3{
+    text-align: center;
+}
+ .silang3 p{
+     font-size: 23px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+     
+ }
+ .jawabsalah3{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+ }
+
+ .text3 p{
+    font-size: 35px;
+    margin-left: -20px;
+ }
+.search3{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 45px;
+}
+.jawab3{
+    margin-top: 50px;
+}
+.jawab3 button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+/* Soal Keempat */
+.soal4{
+    text-align: center;
+}
+ .silang4 p{
+     font-size: 23px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+     
+ }
+ .jawabsalah4{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+ }
+
+ .text4 p{
+    font-size: 35px;
+    margin-left: -20px;
+ }
+.search4{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 45px;
+}
+.jawab4{
+    margin-top: 50px;
+}
+.jawab4 button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+/* Soal Kelima */
+.soal5{
+    text-align: center;
+}
+ .silang5 p{
+     font-size: 20px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+     
+ }
+ .jawabsalah5{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+ }
+
+ .text5 p{
+    font-size: 35px;
+    margin-left: -20px;
+ }
+.search5{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 45px;
+}
+.jawab5{
+    margin-top: 50px;
+}
+.jawab5 button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+/*soal keenam*/
+.soal6{
+    text-align: center;
+}
+ .silang6 p{
+     font-size: 23px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+     
+ }
+ .jawabsalah6{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+ }
+ .text6 p{
+    font-size: 35px;
+    margin-left: -20px;
+ }
+.search6{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 46px;
+}
+.jawab6{
+    margin-top: 50px;
+}
+.jawab6 button{
+    width: 300px;
+    height: 90px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+/* Soal Ketujuh */
+.soal7{
+    text-align: center;
+}
+ .silang7 p{
+     font-size: 23px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+     
+ }
+ .jawabsalah7{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+ }
+
+ .text7 p{
+    font-size: 35px;
+    margin-left: -20px;
+ }
+.search7{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+}
+.jawab7{
+    margin-top: 50px;
+}
+.jawab7 button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+/* Soal Delapan */
+.soal8{
+    text-align: center;
+}
+ .silang8 p{
+     font-size: 23px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+     
+ }
+ .jawabsalah8{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+ }
+
+ .text8 p{
+    font-size: 35px;
+    margin-left: -20px;
+ }
+.search8{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+}
+.jawab8{
+    margin-top: 50px;
+}
+.jawab8 button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+/* Soal Kesembilan */
+.soal9{
+    text-align: center;
+}
+ .silang9 p{
+     font-size: 23px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+     
+ }
+ .jawabsalah9{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+ }
+
+ .text9 p{
+    font-size: 35px;
+    margin-left: -20px;
+ }
+.search9{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+}
+.jawab9{
+    margin-top: 50px;
+}
+.jawab9 button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+/* Soal Kesepuluh */
+.soal10{
+    text-align: center;
+}
+ .silang10 p{
+     font-size: 23px;
+     text-align: left;
+     margin-top: 20px;
+     color: brown;
+     
+ }
+ .jawabsalah10{
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+    color: red;
+ }
+
+ .text10 p{
+    font-size: 35px;
+    margin-left: -20px;
+ }
+.search10{
+    border-radius: 50px; 
+    margin-top: 40px;
+    border-style: solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+}
+.jawab10{
+    margin-top: 50px;
+}
+.jawab10 button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+    border-radius: 50px;
+}
+
+
+    

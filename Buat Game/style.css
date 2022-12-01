@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+
+body{
+    font-family: 'Rubik Distressed', cursive;
+    background-color: #ff9c41;
+    background-position: right top;
+    background-repeat: no-repeat;   
+    }
+.close{
+    height: 100px;
+    width: 100px;
+}
+.judul{
+    margin-left: 630px;
+    margin-top: 90px;
+    font-size: 60px;
+    font-family: 'Rubik Distressed', cursive;   
+    color: #5F8D4E;
+    opacity: .9;
+    }
+.login{
+    margin-left: 630px;
+    margin-top: 100px;
+}
+.login button{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #5F8D4E;
+}
+    

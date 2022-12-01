@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Soal KeSepuluh</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Rubik+Distressed&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Work+Sans:wght@600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="kesepuluh" style="display: block">
+      <div class="soal10">
+        <div class="silang10">
+          <p onclick="lobby10()" style="text-align: justify">
+            <img src="asset/silang1.png" style="float:left" height="90px" width="160px"/>
+            <p style="float: right; text-align: right; margin-right: 10px; font-family:Arial, Helvetica, sans-serif; font-size: 50px; height: 10px; color: black;" id="cooldown1">2:00</p>
+          </p>
+          <p><u>Level Terakhir nih masa nyerah</u></p>
+          <img src="asset/nyawa.png" style="float: left; width: 80px; height: 40px;">
+          <a  style="text-align: left; float: left; font-size: 36px;" id="score" class="score">5</a>
+        </div>
+        <br><br><br>  
+        <hr />
+        <div class="text10">
+          <p>Soal 10</p>
+          <img class="gambar10" src="asset/soal10.jpg" width="700px" height="150px"/><br />
+          <input class="search10" type="text" style="width: 600px; height: 40px"/>
+        </div>
+        <div class="jawabsalah10">
+          <u><p onclick="demo10()" id="salah10"></p></u>
+        </div>
+        <div class="jawab10">
+          <button id="benar10" onclick="demo10()">JAWAB</button>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </body>
+</html>
